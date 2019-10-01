@@ -15,3 +15,10 @@ Este va a ser el __primer__ ejemplo de _tabla_:
 Ahora introduciré una **imagen .png**:
 
 ![Logo](asus.png)
+
+Por **último** mostrará una _tabla_
+
+Tareas hechas | Tareas no hechas
+------------- | ----------------
+Sacar al perro | Comprar
+Estudiar | Tender la ropa
