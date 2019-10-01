@@ -14,4 +14,4 @@ Este va a ser el __primer__ ejemplo de _tabla_:
 
 Ahora introduciré una **imagen .png**:
 
-! [Logo de Asus]
+![Logo](asus.png)
