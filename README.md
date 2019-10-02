@@ -5,7 +5,7 @@
 
 Esto es un ejemplo de *texto* usando distintos tipos de _palabras_ para **ver** como funciona esta __página__
 
-Este va a ser el __primer__ ejemplo de _tabla_:
+Este va a ser el __primer__ ejemplo de _lista_:
 
 - [ ] Compra hecha.
 - [ ] Tender la ropa.
