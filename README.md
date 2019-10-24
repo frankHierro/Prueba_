@@ -1,5 +1,5 @@
 # Esto es una prueba
-## De varias cabezeras
+## De varias cabeceras
 ### Usando distintos
 # tamaños.
 
